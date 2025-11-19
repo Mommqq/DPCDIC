@@ -1,4 +1,4 @@
- # DPCON:Distortion-Perception Co-Optimization Network for Distributed Image Compression
+ # DPCDIC:~Distributed Image Compression with Distortion-Perception Co-optimization
 
 ## Setup
 ### Environment
@@ -61,7 +61,7 @@ python train.py
   <tr>
     <td align="center"><img src="images/c_LD_6.png" width="200"><br><b>VAE-MFD (0.033bpp, 33.45dB&#8593, 0.1490&#8595)</b></td>
     <td align="center"><img src="images/c_LP_6.png" width="200"><br><b>VAE-MFD + PO-PFI (0.033bpp, 22.83dB&#8593, 0.1262&#8595)</b></td>
-    <td align="center"><img src="images/c_alpha_6.png" width="200"><br><b>DPCON (0.033bpp, 31.98dB&#8593, 0.1036&#8595)</b></td>
+    <td align="center"><img src="images/c_alpha_6.png" width="200"><br><b>DPCDIC (0.033bpp, 31.98dB&#8593, 0.1036&#8595)</b></td>
   </tr>
 </table>
 
@@ -75,7 +75,7 @@ python train.py
   <tr>
     <td align="center"><img src="images/k_LD_495.png" width="200"><br><b>VAE-MFD (0.081bpp, 22.78dB&#8593, 0.1689&#8595)</b></td>
     <td align="center"><img src="images/k_LP_495.png" width="200"><br><b>VAE-MFD + PO-PFI (0.081bpp, 20.62dB&#8593, 0.1328&#8595)</b></td>
-    <td align="center"><img src="images/k_alpha_495.png" width="200"><br><b>DPCON (0.081bpp, 22.51dB&#8593, 0.1264&#8595)</b></td>
+    <td align="center"><img src="images/k_alpha_495.png" width="200"><br><b>DPCDIC (0.081bpp, 22.51dB&#8593, 0.1264&#8595)</b></td>
   </tr>
 </table>
 
