@@ -1,4 +1,4 @@
- # DPCDIC:~Distributed Image Compression with Distortion-Perception Co-optimization
+ # DPCDIC: Distributed Image Compression with Distortion-Perception Co-optimization
 
 ## Setup
 ### Environment
